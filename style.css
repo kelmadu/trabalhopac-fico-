@@ -1,0 +1,121 @@
+body{
+	margin: 0;
+}
+header{
+	background-color: #3f7b43;
+	width: 100%;
+	height: 68px;
+	display: flex;
+	justify-content: start;
+	align-items: center;
+}
+img#logo{
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+h1#prin{
+	font-size: 25px;
+	margin-left: 1%;
+}
+a{
+	font-family: verdana;
+}
+article#navum{
+	display: flex;
+	background-color: red;
+}
+a#nt{
+	margin-left: 70px;
+}
+a#cd{
+	margin-right: 20px;
+	text-decoration: none;
+}
+a#ln{
+	color: #b4dc97;
+}
+a{
+	color: white;
+	text-decoration: none;  
+}
+section#sum{
+	display: flex;
+	height: 95%;
+	background-color: #419347;
+	width: 19.9%;
+	margin-top: 0%;
+}
+a#nt:hover{
+	color: black;
+}
+p{
+	
+}
+footer{
+	background-color: #3f7b43;
+	width: 100%;
+	height: 38%;
+	margin-top: -1%;
+}
+h1{
+	font-size: 17px;
+	color: white;
+	margin-left: 16%;
+	margin-top: 20;
+}
+h1#po{
+	font-size: 20px;
+	color: white;
+	margin-left: 36%;
+	margin-top: -9.8%;
+	font-style: arial;
+}
+h1#op{
+	font-size: 20px;
+	color: white;
+	margin-left: 56%;
+	margin-top: -9.3%;
+	font-style: arial;
+}
+h1#p{
+	font-size: 20px;
+	color: white;
+	margin-left: 76%;
+	margin-top: -9.4%;
+	font-style: arial;
+}
+p#tex{
+	font-size: 14px;
+	color: white;
+	font-style: arial;
+}
+p#ex{
+	font-size: 20px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	font-style: arial;
+}
+a#tr{
+	font-size: 14px;
+	color: white;
+	font-style: arial;
+}
+div{
+	margin-left: 16%;
+	margin-top: 1%;	
+}
+div#seg{
+	margin-left: 36%;
+	margin-top: 1%;	
+}
+div#ges{
+	margin-left: 56%;
+	margin-top: 1%;	
+}
+div#es{
+	margin-left: 76%;
+	margin-top: 1%;	
+}
+
+	

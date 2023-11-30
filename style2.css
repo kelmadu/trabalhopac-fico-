@@ -1,0 +1,115 @@
+body{
+	background-color: #b5dc96;
+	color: white;
+}
+.box{
+	background-color:  #419347;
+	border: 2px solid white;
+}
+main{
+	display: flex;
+	justify-content: center;
+}
+.container{
+	font-size: 15px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap:5px;
+	grid-auto-rows: minimax(50px);
+}
+.box-1{
+	height: 50px;
+	grid-column: 1/4;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	grid-gap:5px;
+}
+.box-2{
+	height: 300px;
+	width: 300px;
+	grid-column: 1/2;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-3{
+	height: 300px;
+	width: 300px;
+	grid-column:2/3;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-4{
+	height: 300px;
+	width: 300px;
+	grid-column: 3/3;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-5{
+	height: 300px;
+	width: 300px;
+	grid-column: 1/1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-6{
+	height: 300px;
+	width: 300px;
+	grid-column: 2/2;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-7{
+	height: 300px;
+	width: 300px;
+	grid-column: 3/3;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-8{
+	height: 300px;
+	width: 300px;
+	grid-column:1/1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-9{
+	height: 300px;
+	width: 300px;
+	grid-column: 2/3;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-10{
+	height: 300px;
+	width: 300px;
+	grid-column: 3/3;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+a{
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	font-size: 23px;
+	font-family: Arial;
+}
+h1{
+	display: flex;
+	justify-content: center;
+}
+div{
+	font-family: Arial;
+}
