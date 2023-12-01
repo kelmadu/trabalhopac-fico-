@@ -113,23 +113,3 @@ div#es{
 aside#foot{
 	margin: 5%;
 }
-@media only handheld and (max-width:768px){
-	body{
-		font-size:10px;
-	}
-	img#prince{
-		width:200px;
-		height:auto;
-	}
-}
-@media only screen and (max-width: 800px){
-	body{
-		font-size:16px;
-		font-family:Arial;
-	}
-	img#prince{
-		width:300px;
-		height:200px;
-		
-	}
-}
