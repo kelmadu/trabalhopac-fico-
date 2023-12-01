@@ -52,9 +52,6 @@ section#sum{
 a#nt:hover{
 	color: black;
 }
-p{
-	
-}
 footer{
 	display: flex;
 	justify-content: center;
@@ -121,8 +118,13 @@ div#es{
 aside#foot{
 	margin: 5%;
 }
+@media only handheld and (max-width:768px){
+	body{
+		font-size:10px;
+	}
+}
 @media only screen and (min-width: 200px) and (max-width: 600px){
 	body{
-	
+
 	}
 }
