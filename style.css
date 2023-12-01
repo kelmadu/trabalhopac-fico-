@@ -2,7 +2,8 @@ body{
 	margin: 0;
 }
 img#prince{
-	width:auto;
+	width:1000px;
+	height:auto;
 }
 header{
 	background-color: #3f7b43;
