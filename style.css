@@ -122,6 +122,10 @@ aside#foot{
 	body{
 		font-size:10px;
 	}
+	img#prince{
+		width:200px;
+		height:auto;
+	}
 }
 @media only screen and (min-width: 200px) and (max-width: 600px){
 	body{
