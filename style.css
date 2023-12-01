@@ -1,6 +1,10 @@
 body{
 	margin: 0;
 }
+#soraka{
+	width:auto;
+	height:auto;
+}
 header{
 	background-color: #3f7b43;
 	width: 100%;
