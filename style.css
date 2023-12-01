@@ -1,6 +1,9 @@
 body{
 	margin: 0;
 }
+img#prince{
+	width:auto;
+}
 header{
 	background-color: #3f7b43;
 	width: 100%;
