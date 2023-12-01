@@ -2,8 +2,8 @@ body{
 	margin: 0;
 }
 img#soraka{
-	width:300px;
-	height:400px;
+	width:100%;
+	height:auto;
 }
 header{
 	background-color: #3f7b43;
