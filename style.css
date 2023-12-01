@@ -127,9 +127,14 @@ aside#foot{
 		height:auto;
 	}
 }
-@media only screen and (min-width: 200px) and (max-width: 600px){
+@media only screen and (max-width: 800px){
 	body{
 		font-size:16px;
 		font-family:Arial;
+	}
+	img#prince{
+		width:300px;
+		height:200px;
+		
 	}
 }
