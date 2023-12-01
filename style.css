@@ -118,8 +118,8 @@ div#es{
 	margin-top: 1%;	
 }
 aside#foot{
-	margin-left: 2.5%;
-	margin-right: 2.5%;
+	margin-left: 15%;
+	margin-right: 15%;
 }
 @media only screen and (min-width: 200px) and (max-width: 600px){
 	body{
